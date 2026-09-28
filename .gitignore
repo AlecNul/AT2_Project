@@ -1,0 +1,27 @@
+# --- Python & Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.virtual_documents/
+
+# --- Environment & WSL ---
+.env
+.venv/
+env/
+venv/
+
+# --- LaTeX Temporary Files ---
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
+# --- OS & Editor ---
+.DS_Store
+.vscode/
